@@ -12,9 +12,10 @@ public class Rectangle extends BaseShape {
      * @param length The length of the rectangle
      * @param height The width of the rectangle
      */
-    public Rectangle(double length,double height) {
-        super("Rectangle",length,height);
+    public Rectangle(double length,double width) {
+        super("Rectangle",length,width);
     }
+
 
     // TODO FOR HOMEWORK: Add a static main method for any debugging purposes
     public static void main(String[] args){
