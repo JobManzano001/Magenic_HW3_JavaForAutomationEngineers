@@ -10,7 +10,7 @@ public class Rectangle extends BaseShape {
      * TODO FOR HOMEWORK: Update the below constructor
      * Creates an instance of the Rectangle class
      * @param length The length of the rectangle
-     * @param height The width of the rectangle
+     * @param width The width of the rectangle
      */
     public Rectangle(double length,double width) {
         super("Rectangle",length,width);
